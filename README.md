@@ -180,7 +180,7 @@ I believe the future belongs to people who can continuously learn, adapt, and tu
 <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics">
+  <img src="https://github-readme-stats.vercel.app/api?username=mallikarjunpatiil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics">
 </p>
 
 <p align="center">
