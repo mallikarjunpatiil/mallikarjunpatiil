@@ -184,7 +184,7 @@ I believe the future belongs to people who can continuously learn, adapt, and tu
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mallikarjunpatiil&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
 </p>
 
 ---
